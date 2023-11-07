@@ -1,0 +1,22 @@
+{
+  "name": "verra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open --config-file utils/config.js",
+    "cypress:run": "cypress run --config-file utils/config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+    
+
+}

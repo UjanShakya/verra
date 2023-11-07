@@ -1,0 +1,14 @@
+{
+  "validCredentials":
+    {
+      "email" : "reshma@esrtech.io",
+      "password" : "Reshma@123"
+    },
+  "invalidCredentials":
+    {
+      "email" : "reshma@esrtech.io",
+      "password" : "test123"
+    }
+
+    
+}

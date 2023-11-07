@@ -1,0 +1,11 @@
+const defaultTimeout = '5000'
+const maxTimeout = '10000'
+const screenshotOnRun = 'false'
+const viewportWidth = '1920'
+const viewportHeight = '1080'
+const video = 'false'
+
+
+export {
+    defaultTimeout, screenshotOnRun, maxTimeout, video, viewportHeight, viewportWidth
+}
