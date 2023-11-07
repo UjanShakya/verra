@@ -12,11 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.14.0"
+    "cypress": "^12.17.4"
   },
   "dependencies": {
+    "cypress-mochawesome-reporter": "^3.6.1",
     "cypress-xpath": "^2.0.1"
   }
-    
-
 }
